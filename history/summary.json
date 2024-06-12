@@ -4,7 +4,7 @@
     "url": "https://tablegpt.zjuici.com",
     "icon": "https://icons.duckduckgo.com/ip3/tablegpt.zjuici.com.ico",
     "slug": "table-gpt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1994,
     "timeMonth": 1994,
     "timeYear": 1994,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-12": 0
+    }
   },
   {
     "name": "Landing Page",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/welcome.tablegpt.zjuici.com.ico",
     "slug": "landing-page",
     "status": "down",
-    "uptime": "91.46%",
-    "uptimeDay": "58.05%",
-    "uptimeWeek": "91.46%",
-    "uptimeMonth": "91.46%",
-    "uptimeYear": "91.46%",
+    "uptime": "90.55%",
+    "uptimeDay": "53.12%",
+    "uptimeWeek": "90.55%",
+    "uptimeMonth": "90.55%",
+    "uptimeYear": "90.55%",
     "time": 867,
     "timeDay": 0,
     "timeWeek": 867,
     "timeMonth": 867,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2024-06-12": 58,
+      "2024-06-12": 129,
       "2024-06-11": 546
     }
   }
