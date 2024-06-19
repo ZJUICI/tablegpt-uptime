@@ -8,6 +8,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+    assignees:
+      - xli-1026
   - name: Landing Page
     url: https://welcome.tablegpt.zjuici.com/
   - name: TableGPT-slim-py
@@ -15,6 +17,9 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+
+assignees:
+  - edwardzjl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
