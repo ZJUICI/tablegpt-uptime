@@ -10,6 +10,11 @@ sites:
       - 403
   - name: Landing Page
     url: https://welcome.tablegpt.zjuici.com/
+  - name: TableGPT-slim-py
+    url: https://py-slim.tablegpt.zjuici.com
+    expectedStatusCodes:
+      - 200
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
