@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 1896,
-    "timeDay": 2041,
-    "timeWeek": 1844,
-    "timeMonth": 1896,
-    "timeYear": 1896,
+    "time": 1888,
+    "timeDay": 1691,
+    "timeWeek": 1797,
+    "timeMonth": 1888,
+    "timeYear": 1888,
     "dailyMinutesDown": {
       "2024-06-12": 34
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/welcome.tablegpt.zjuici.com.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "97.25%",
+    "uptime": "97.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "97.25%",
-    "time": 920,
-    "timeDay": 989,
-    "timeWeek": 972,
-    "timeMonth": 920,
-    "timeYear": 920,
+    "uptimeMonth": "97.39%",
+    "uptimeYear": "97.39%",
+    "time": 919,
+    "timeDay": 890,
+    "timeWeek": 962,
+    "timeMonth": 919,
+    "timeYear": 919,
     "dailyMinutesDown": {
       "2024-06-12": 164,
       "2024-06-11": 546
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 911,
-    "timeWeek": 882,
-    "timeMonth": 882,
-    "timeYear": 882,
+    "time": 893,
+    "timeDay": 985,
+    "timeWeek": 893,
+    "timeMonth": 893,
+    "timeYear": 893,
     "dailyMinutesDown": {}
   }
 ]
