@@ -8,15 +8,18 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-    assignees:
-      - xli-1026
-  - name: Landing Page
-    url: https://welcome.tablegpt.zjuici.com/
+  - name: TableGPT-test
+    url: https://test.tablegpt.zjuici.com
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: TableGPT-slim-py
     url: https://py-slim.tablegpt.zjuici.com
     expectedStatusCodes:
       - 200
       - 403
+  - name: Landing Page
+    url: https://welcome.tablegpt.zjuici.com/
 
 assignees:
   - edwardzjl
