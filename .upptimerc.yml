@@ -18,6 +18,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+  - name: Landing Page
+    url: https://welcome.tablegpt.zjuici.com/
 
 assignees:
   - edwardzjl
